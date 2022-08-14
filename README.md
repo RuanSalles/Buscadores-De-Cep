@@ -13,10 +13,39 @@ Todo repositório está sendo utilizado com requisições para [AwesomeAPI]('htt
 
 Até o momento validações encontram-se implementadas apenas na versão utilizando Curl que retornará mensagem caso falha da requisição ou CEP não encontrado na base da API requisitada.
 
+<div>
+<img src="https://raw.githubusercontent.com/RuanSalles/Buscadores-De-Cep/main/imagens/tela-principal.png" width="350" />
+</div>
+
+### Estrutura do Projeto
+
+<div>
+<img src="https://raw.githubusercontent.com/RuanSalles/Buscadores-De-Cep/main/imagens/estrutura.png" width="350" />
+</div>
+
 Versões   | Link
 :------: | :------:
 FetchApi | [Clique Aqui](https://github.com/RuanSalles/Buscadores-De-Cep/tree/main/FetchApi)
 Curl | [Clique Aqui](https://github.com/RuanSalles/Buscadores-De-Cep/tree/main/Curl)
+
+### Utilização do Sistema com PHP
+
+Para utilizar o sitema utilizando PHP, basta realizar os passos a seguir:
+
+```bash
+cd Curl
+```
+E executar o comando a seguir no terminal, para subir o servidor nativo do PHP
+```
+php -s localhost:8000
+```
+Logo após será possível acessar através do navegador o link http://localhost:8000
+
+### Utilização do Sistema com JS
+
+A utilização com JS é simplificada visto que é apenas necessário abrir o index.html contido na pasta [FetchApi](https://github.com/RuanSalles/Buscadores-De-Cep/tree/main/FetchApi).
+ Então navegue até a pasta e execute o index com 2 cliques.
+
 
 #### Pontos de Melhorias
 
