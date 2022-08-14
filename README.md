@@ -13,6 +13,10 @@ Todo repositório está sendo utilizado com requisições para [AwesomeAPI]('htt
 
 Até o momento validações encontram-se implementadas apenas na versão utilizando Curl que retornará mensagem caso falha da requisição ou CEP não encontrado na base da API requisitada.
 
+Versões   | Link
+:------: | :------:
+FetchApi | [Clique Aqui](https://github.com/RuanSalles/Buscadores-De-Cep/tree/main/FetchApi)
+Curl | [Clique Aqui](https://github.com/RuanSalles/Buscadores-De-Cep/tree/main/Curl)
 
 #### Pontos de Melhorias
 
