@@ -1,4 +1,4 @@
-# Exmplo de buscadores de Cep
+# Exemplo de buscadores de Cep
 
 ### Tecnologias Utilizadas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
